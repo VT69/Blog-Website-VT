@@ -64,7 +64,7 @@ How to Setup Locally 💻
 
 Live Project 🌍
 ---------------
-Live Website Link: https://mothers-day-tribute-blog-vt.netlify.app/
+Live Website Link: https://mothers-day-blog-vt.netlify.app/about
 
 Additional Notes 📋
 -------------------
